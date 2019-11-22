@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Album_UI</string>
     <string name="gallery">Gallery</string>
+    <string name="picture">Picture</string>
+    <string name="album">Album</string>
+    <string name="story">Story</string>
+    <string name="date">Date</string>
+    <string name="notification">Notification</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="address">address</string>
 </resources>
